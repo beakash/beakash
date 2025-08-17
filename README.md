@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beakash
-- 👀 I’m interested in web development 
+- 
 - 🌱 I’m currently learning about Data Structure and Algorithms
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 you can reach me on email - beakash33@gmail.com
 
 <!---

@@ -5,6 +5,8 @@
 ```cpp
 class Akash {
 public:
+
+    string name = " Akash Bhagat"
     string location = "West Bengal, India";
     string degree = "B.Tech CSE";
     string learning = "Java, DSA, Spring Boot";
